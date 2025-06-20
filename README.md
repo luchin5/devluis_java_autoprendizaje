@@ -12,6 +12,10 @@ Esta dividido en 4 fases que constan de varios ejercicios con los temas ya menci
 
 Compilarlo en cualquier IDE o editor preferido para su revisión.
 
-Gracias por ver.
+## Nivel adquirido
+
+Alcance el nivel INTERMEDIO 💪, comprendiendo como es que funciona la sintaxis, además entendiendo el POO en Java , donde básicamente se trata de "actores y responsabilidades" (objetos y métodos) . Además puedo agregar que entendí la clase base, subclase (herencia con extends), clases interfaz , clases abstractas y sobretodo polimorfismo.
+
+### Gracias por ver.
 
 ![68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966](https://github.com/user-attachments/assets/9789cb4a-46b0-4a74-ba16-ac45e10ef73d)
